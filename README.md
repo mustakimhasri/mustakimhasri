@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/takimtod">
+  <a href="https://github.com/mustakimhasri">
     <img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Hi!+I'm+a+Newbie;Don't+bully+me+>//<" alt="Typing SVG">
   </a>
 </p>
@@ -14,7 +14,7 @@
 
 ### 📱 SOCIAL MEDIA
 
-- [![Owner](https://img.shields.io/badge/Developer-Takimtod-brightgreen)](https://wa.me/628388024064)
+- [![Owner](https://img.shields.io/badge/Developer-mustakimhasri-brightgreen)](https://wa.me/628388024064)
 - [![Join Group Bot](https://img.shields.io/badge/Join%20Group-000000?style=social&logo=whatsapp&logoColor=brightgreen)](https://chat.whatsapp.com/EA2NGd03YWCGgusBCAd27Y)
 - [![Instagram](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&logoColor=ff69b4)](https://instagram.com/mustakim_hasri)
 - [![Facebook](https://img.shields.io/badge/Facebook-ff007f?style=social&logo=facebook&logoColor=0080ff)](https://facebook.com/Kevin)
@@ -29,19 +29,25 @@
   </a>
 </p>
 
+
+ <iframe style="border-radius:12px"
+          src="https://open.spotify.com/embed/track/3qhlB30KknSejmIvZZLjOD?si=BD6A0UgOTLG5Z2bdsbNVuQ?utm_source=generator"
+          width="100%" height="80" frameborder="0"
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="">
+        </iframe>
 ---
 
 
 ### 🚀 Github Stats
 
 <p align="center">
-  <a href="https://github.com/takimtod">
-    <img src="https://github-readme-stats.vercel.app/api?username=takimtod&show_icons=true&theme=radical" alt="GitHub Stats">
+  <a href="https://github.com/mustakimhasri">
+    <img src="https://github-readme-stats.vercel.app/api?username=mustakimhasri&show_icons=true&theme=radical" alt="GitHub Stats">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/takimtod">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takimtod&theme=radical&layout=compact" alt="Top Languages">
+  <a href="https://github.com/mustakimhasri">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustakimhasri&theme=radical&layout=compact" alt="Top Languages">
   </a>
 </p>
 
