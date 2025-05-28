@@ -1,8 +1,5 @@
 <h1 align="center">Hi, Welcome To My Profile 👋</h1>
 
-<p align="center">
-  <img src="https://pomf2.lain.la/f/3otbie9h.jpg" alt="Profile Banner" />
-</p>
 
 <p align="center">
   <a href="https://github.com/mustakimhasri">
@@ -29,12 +26,6 @@
   </a>
 </p>
 
-
- <iframe style="border-radius:12px"
-          src="https://open.spotify.com/embed/track/3qhlB30KknSejmIvZZLjOD?si=BD6A0UgOTLG5Z2bdsbNVuQ?utm_source=generator"
-          width="100%" height="80" frameborder="0"
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="">
-        </iframe>
 ---
 
 
